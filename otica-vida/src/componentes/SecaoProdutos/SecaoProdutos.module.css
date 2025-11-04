@@ -1,0 +1,34 @@
+.container_produtos{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.container_produtos h3{
+    margin: 30px;
+}
+
+.container_produtos p{
+    margin-bottom: 30px;
+}
+
+.container_divs{
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container_divs div{
+    width: 400px;
+    background-color: #f6f6f6 ;
+    font-weight: bolder;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 5px  #0000003f ;
+}
+
+.imagens{
+    width: 200px;
+    height: 100px;
+    margin: 20px;
+}
