@@ -1,0 +1,36 @@
+.container_sobre{
+    background-color: darksalmon;
+    width: 900px;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+}
+
+.container_sobre h3{
+    margin: 25px;
+}
+
+.container_sobre p{
+    line-height: 30px;
+}
+
+.container_divs{
+    width: 400;
+    height: 250px;
+    display: flex;
+    margin-top: 30px;
+    
+}
+
+.container_divs h4{
+    margin: 50px;
+}
+
+.container_divs p{
+    margin-bottom: 100px;
+}
+
+.imagens{
+    width: 400px;
+    height: 250px;
+}
