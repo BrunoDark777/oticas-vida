@@ -9,7 +9,7 @@ import Image from "next/image"
 
 export default function SecaoContatos(){
     return(
-        <section className={estilos.secao_contatos}>
+        <section className={estilos.secao_contatos} id='contato'>
             <h3>Fale conosco</h3>
             <p>Não perca tempo, venha conhecer uma de nossas lojas ou entre em contato através de nossas redes sociais ou da central de atendimento</p>
 <div className={estilos.container_divs}>

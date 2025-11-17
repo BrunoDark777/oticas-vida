@@ -5,7 +5,7 @@ import Image from "next/image"
 
 export default function SecaoSobre(){
     return(
-        <section className={estilos.container_sobre}>
+        <section className={estilos.container_sobre} id='sobre'>
             <h3>QUEM SOMOS NÓS</h3>
             <p>Fundada em 2001, em Nova Iguaçu - Rio de Janeiro, a Óticas vida iniciou suas atividades focada no atendimento ao público de renda mais
             baixa sempre com o objetivo de proporcionar ao cliente bom atendimento, qualidade e preço baixo.</p>

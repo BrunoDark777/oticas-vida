@@ -7,7 +7,7 @@ import Image from 'next/image';
 
 export default function SecaoProdutos(){
     return(
-        <section className={estilos.container_produtos}>
+        <section className={estilos.container_produtos} id='produtos'>
 
             <h3>NOSSOS PRODUTOS</h3>
             <p>Trabalhamos com óculos de grau, óculos de sol, lentes transition nos modelos masculino, feminino e infantil.</p>
