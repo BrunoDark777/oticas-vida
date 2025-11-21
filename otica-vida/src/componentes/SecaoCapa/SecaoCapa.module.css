@@ -27,7 +27,7 @@
 
 @media screen and (min-width: 481px) and (max-width: 768px) {
   .container_capa{
-    height: 80%;
+    height: 100vh;
     padding: 15px;
   }  
  .container{
